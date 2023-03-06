@@ -31,5 +31,7 @@ The deployed site is [here](https://estate.boronilov.store/)
 
 ![Post](https://github.com/aboronilov/reddit/blob/main/public/screenshots/post.png)
 
-5. Agent page
+5. Agent page with the list of all his properties 
+
+![Agent](https://github.com/aboronilov/reddit/blob/main/public/screenshots/post.png)
 
