@@ -13,25 +13,27 @@ The deployed site is [here](https://estate.boronilov.store/)
 
 
 ## Features
-1. Main page with most dashboard and latest properties 
+1. Main page with the dashboard and the latest 4 properties 
 
-![Landing page](https://github.com/aboronilov/reddit/blob/main/public/screenshots/landing.png)
+![Landing page](https://github.com/aboronilov/estate/blob/main/client/src/assets/screenshots/1.png)
 
 2. Authentication system via Google account
 
-![Auth](https://github.com/aboronilov/reddit/blob/main/public/screenshots/auth.png)
+![Auth](https://github.com/aboronilov/estate/blob/main/client/src/assets/screenshots/2.png)
 
 3. Listing of all properties with sorting and searching oportunity and pagination. Creating, changing and deleting properties
  
-![Create community](https://github.com/aboronilov/reddit/blob/main/public/screenshots/create_community.png)
+![List](https://github.com/aboronilov/estate/blob/main/client/src/assets/screenshots/3.png)
 
-![Community](https://github.com/aboronilov/reddit/blob/main/public/screenshots/community.png)
+![Create](https://github.com/aboronilov/estate/blob/main/client/src/assets/screenshots/4.png)
 
-4. Property details page with dynamic google maps comonent
+![Update](https://github.com/aboronilov/estate/blob/main/client/src/assets/screenshots/5.png)
 
-![Post](https://github.com/aboronilov/reddit/blob/main/public/screenshots/post.png)
+4. Property details page with dynamic google maps component
+
+![Property](https://github.com/aboronilov/estate/blob/main/client/src/assets/screenshots/6.png)
 
 5. Agent page with the list of all his properties 
 
-![Agent](https://github.com/aboronilov/reddit/blob/main/public/screenshots/post.png)
+![Agent](https://github.com/aboronilov/estate/blob/main/client/src/assets/screenshots/7.png)
 
