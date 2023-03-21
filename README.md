@@ -1,5 +1,5 @@
 # Fully responsive MERN full-stack real estate agency app
-The deployed site is [here](https://estate.boronilov.store/)
+The deployed site is [here](https://estate-git-main-boronilov-team.vercel.app/)
 
 ## Technologies
 
